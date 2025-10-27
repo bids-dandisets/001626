@@ -22,9 +22,9 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 4017131728
-  numberOfFiles: 68
-  numberOfSubjects: 4
+  numberOfBytes: 6914021635
+  numberOfFiles: 123
+  numberOfSubjects: 6
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9544
@@ -32,6 +32,9 @@ assetsSummary:
     schemaKey: SpeciesType
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9541
     name: Macaca fascicularis - Cynomolgus monkeys
+    schemaKey: SpeciesType
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9545
+    name: Macaca nemestrina
     schemaKey: SpeciesType
   variableMeasured:
   - CurrentClampStimulusSeries
