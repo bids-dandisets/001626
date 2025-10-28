@@ -22,8 +22,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: analytical technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 6914021635
-  numberOfFiles: 123
+  numberOfBytes: 7095730282
+  numberOfFiles: 128
   numberOfSubjects: 6
   schemaKey: AssetsSummary
   species:
@@ -97,6 +97,7 @@ contributor:
   - dcite:ProjectLeader
   schemaKey: Person
 dateCreated: '2025-10-13T14:10:59.421131+00:00'
+datePublished: '2025-10-28T17:47:06.323623+00:00'
 description: HMBA Lein PatchSeq upload (non-human primate) (Q3 2025)
 ethicsApproval: []
 id: DANDI:001626/draft
@@ -110,6 +111,18 @@ manifestLocation:
 name: 20251020_AIBS_Patchseq_nhp
 protocol:
 - https://www.protocols.io/view/patch-seq-recording-and-extraction-8epv51n45l1b/v3
+publishedBy:
+  endDate: '2025-10-28T17:47:06.323623+00:00'
+  id: urn:uuid:8f53f359-af42-4f96-a53f-1869defaeeb7
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-10-28T17:47:06.323623+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:89e02567-0df1-49c4-b695-70e57dc9d48b
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
